@@ -4,7 +4,7 @@ To simulate Big Data workflow I installed a VM on my local computer, Spark and c
 
 ## Dataset
 
-The dataset used (**wa;mart_stock.csv**) could be downloaded form the repository.
+The dataset used (**walmart_stock.csv**) could be downloaded form the repository.
 
 ## Python version
 
